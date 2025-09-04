@@ -1,0 +1,18 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "do fizzbuzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^24.3.0",
+    "jest": "^30.1.3",
+    "ts-jest": "^29.4.1",
+    "typescript": "^5.9.2"
+  }
+}
